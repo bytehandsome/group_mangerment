@@ -43,6 +43,8 @@ If you have not installed Node.js(or version is below 10),You need to install th
 
 > Instal Node.js for other platforms can be found at <https://nodejs.org/en/download/package-manager/>
 
+本人安装过程帖子：https://blog.csdn.net/hm__2016/article/details/113818351
+
 ### 2 Clone this Repository
 
 ```sh
