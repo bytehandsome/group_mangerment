@@ -71,6 +71,12 @@ npm install
     ```sh
     npm install windows-build-tool
     ```
+如果你遇到情况：` bash: npm: 未找到命令` ，可以进行以下操作
+```
+pi@raspberrypi:~ $ source .bash_profile
+pi@raspberrypi:~ $ npm install
+```
+
 
 ### 4 Run the Bot
 
